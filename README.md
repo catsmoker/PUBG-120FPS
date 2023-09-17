@@ -5,7 +5,7 @@ PUBG 90FPS UNLUCKER
 
 MAGISK MODULE
 
-model is set to [2210132C]
+model is set to [2304FPN6DC]
 
 # Installation
 
