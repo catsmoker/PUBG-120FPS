@@ -1,6 +1,6 @@
-id=fpsunlocker
-name=PUBG Mobile 90 FPS Unlocker
-version=082023-01.00
-versionCode=08212023
-author=REDFOX
-description=A Magisk module for unlocking max 90 FPS in any game
+id=pubgfpsunlocker
+name=PUBG Mobile FPS Unlocker
+version=20231022
+versionCode=20231022
+author=REDF0X8
+description=A Magisk module for unlocking max FPS in PUBG Mobile
