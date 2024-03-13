@@ -5,7 +5,7 @@ PUBG 90FPS UNLUCKER
 
 MAGISK MODULE
 
-model is set to [SHARK KTUS-H0]
+model is set to [AI2401]
 
 learn how:
 
