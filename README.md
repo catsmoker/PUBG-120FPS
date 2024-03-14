@@ -1,7 +1,9 @@
 # UNLOCK 90FPS (extreme+)
-![Screenshot-8](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/0352f3c7-1da3-44ea-8afc-7a76c1438895)
+![pubg](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
+
 
 FPS UNLOCKER 
+
 
 MAGISK MODULE
 
