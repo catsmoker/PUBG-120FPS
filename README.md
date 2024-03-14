@@ -23,6 +23,6 @@ In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extrem
 
 3 - enjoy
 
-#view channel
+# view channel
 
 https://www.youtube.com/@CATSM0KER?sub_confirmation=1
