@@ -11,6 +11,8 @@ learn how to install:
 
 http://tinyurl.com/pubg90fps
 
+In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS. Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
+
 # instructions
 
 1 - Download zip from Release
