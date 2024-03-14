@@ -1,9 +1,7 @@
 # UNLOCK 90FPS (extreme+)
 ![pubg](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
 
-
 FPS UNLOCKER 
-
 
 MAGISK MODULE
 
@@ -11,16 +9,10 @@ model is set to [23127PN0CC]
 
 learn how to install:
 
-import { Link } from "@remix-run/react";
+http://tinyurl.com/pubg90fps
 
-// ...
-
-return (
-  <Link to="http://tinyurl.com/pubg90fps">Click me</Link>
-);
-
-
-In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS. Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
+In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS.
+Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
 
 # instructions
 
