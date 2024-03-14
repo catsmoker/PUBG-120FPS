@@ -1,13 +1,13 @@
-# UNLOCK 90FPS
+# UNLOCK 90FPS (extreme+)
 ![Screenshot-8](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/0352f3c7-1da3-44ea-8afc-7a76c1438895)
 
-PUBG 90FPS UNLOCKER 
+FPS UNLOCKER 
 
 MAGISK MODULE
 
 model is set to [23127PN0CC]
 
-learn how:
+learn how to install:
 
 http://tinyurl.com/pubg90fps
 
