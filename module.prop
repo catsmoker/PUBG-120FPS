@@ -1,6 +1,6 @@
-id=pubgfpsunlocker
-name=PUBG Mobile FPS Unlocker
+id=fpsunlocker
+name=Mobile FPS Unlocker
 version=20240313
 versionCode=20240313
 author=catsmoker
-description=A Magisk module for unlocking max FPS in PUBG Mobile
+description=A Magisk module for unlocking max FPS in Mobile GAMES
