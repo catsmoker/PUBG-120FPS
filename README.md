@@ -11,7 +11,7 @@ model is set to [23127PN0CC]
 
 learn how to install:
 
-import { Link } from "[@remix-run/react](http://tinyurl.com/pubg90fps)"
+import { Link } from "http://tinyurl.com/pubg90fps"
 // ...
 return <Link to="/a-link">Click me</Link>
 
