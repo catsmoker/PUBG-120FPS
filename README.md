@@ -34,5 +34,6 @@ https://www.youtube.com/@CATSM0KER?sub_confirmation=1
 # Donate me
 
 Paypal: <a href="http://paypal.me/BOULHADA08" rel="nofollow">paypal.me/catsmoker</a>
+Paypal: [paypal.me/catsmoker](http://paypal.me/boulhada08)
 
 Thanks for all your supports and hope you have a good day! 👍
