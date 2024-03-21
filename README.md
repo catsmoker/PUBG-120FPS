@@ -29,10 +29,10 @@ https://www.youtube.com/@CATSM0KER?sub_confirmation=1
 
 # DISCLAIMER
 
-
+<a href="paypal.me/BOULHADA08" rel="nofollow">paypal.me/huskydg</a>
 
 # Donate me
 
-Paypal: [paypal.me/BOULHADA08]
+Paypal: paypal.me/BOULHADA08
 
 Thanks for all your supports and hope you have a good day! 👍
