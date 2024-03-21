@@ -28,9 +28,9 @@ https://www.youtube.com/@CATSM0KER?sub_confirmation=1
 
 
 # DISCLAIMER
-
-<a href="paypal.me/BOULHADA08" rel="nofollow">paypal.me/boulhada08</a>
-
+<li>
+<a href="http://paypal.me/BOULHADA08" rel="nofollow">paypal.me/catsmoker</a>
+</li>
 # Donate me
 
 Paypal: paypal.me/BOULHADA08
