@@ -26,6 +26,13 @@ Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, wil
 
 https://www.youtube.com/@CATSM0KER?sub_confirmation=1
 
+
+# DISCLAIMER
+
+
+
 # Donate me
-Paypal: paypal.me/BOULHADA
+
+Paypal: [paypal.me/BOULHADA08]
+
 Thanks for all your supports and hope you have a good day! 👍
