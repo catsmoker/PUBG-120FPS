@@ -29,7 +29,7 @@ https://www.youtube.com/@CATSM0KER?sub_confirmation=1
 
 # DISCLAIMER
 
-<a href="paypal.me/BOULHADA08" rel="nofollow">paypal.me/huskydg</a>
+<a href="paypal.me/BOULHADA08" rel="nofollow">paypal.me/boulhada08</a>
 
 # Donate me
 
