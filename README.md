@@ -20,10 +20,11 @@ Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, wil
 **learn how to install:**
 
 <a href="https://www.youtube.com/watch?v=pXZIm_qD2Fg">
-<img src="https://github.com/catsmoker/PUBG-90FPS/assets/119059457/68177ff2-bb8b-4379-bc8a-b55f6a16154b" width="50" height="40" alt="INSTRUCTIONS"/>
+<img src="https://github.com/catsmoker/PUBG-90FPS/assets/119059457/38c3c645-3147-4e8a-a81b-ecea55a09e02" width="40" height="50" alt="INSTRUCTIONS"/>
 <br> <!-- Add a line break for spacing -->
   </a>
 </div>
+<br> <!-- Add a line break for spacing -->
 
 1 - Download zip from Release
 
