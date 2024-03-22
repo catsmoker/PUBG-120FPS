@@ -5,6 +5,9 @@
 
 ![pubg](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
 
+In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS.
+Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
+
 -----------------------------------------------------------------------------------------------------
 
 
@@ -12,14 +15,15 @@
 
 * model is set to [23127PN0CC]
 
+# INSTRUCTIONS
+
 **learn how to install:**
 
-URL: http://tinyurl.com/pubg90fps
-
-In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS.
-Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
-
-# INSTRUCTIONS
+<a href="https://www.youtube.com/watch?v=pXZIm_qD2Fg">
+<img src="https://github.com/catsmoker/PUBG-90FPS/assets/119059457/68177ff2-bb8b-4379-bc8a-b55f6a16154b" width="50" height="40" alt="INSTRUCTIONS"/>
+<br> <!-- Add a line break for spacing -->
+  </a>
+</div>
 
 1 - Download zip from Release
 
