@@ -26,6 +26,7 @@ Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, wil
 3 - enjoy
 
 # MY CHANNEL
+[![Subscribe](https://img.shields.io/github/watchers/<username>/<repository>?label=Subscribe&style=social)](https://www.youtube.com/channel/UCjNGmM_y9Cf4Y2p-4VZZ5jw?sub_confirmation=1)
 
 **YouTube channel views:**
 
