@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4050&pause=500&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=FPS+UNLOCKER;UNLOCK+MAX+FPS+IN+ANY+GAME)](https://git.io/typing-svg)
 
-# UNLOCK 90FPS (extreme+)
+# UNLOCK 90FPS (extreme+) [MAX FPS]
 ![pubg](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
 
 FPS UNLOCKER 
@@ -17,7 +17,7 @@ URL: http://tinyurl.com/pubg90fps
 In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS.
 Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
 
-# instructions
+# INSTRUCTIONS
 
 1 - Download zip from Release
 
@@ -25,7 +25,7 @@ Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, wil
 
 3 - enjoy
 
-# MY CHANNEL
+# MY YOUTUBE CHANNEL
 
 <a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="YouTube logo"  />
