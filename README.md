@@ -10,7 +10,7 @@ MAGISK MODULE
 
 model is set to [23127PN0CC]
 
-learn how to install:
+**learn how to install:**
 
 http://tinyurl.com/pubg90fps
 
