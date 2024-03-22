@@ -12,7 +12,7 @@ MAGISK MODULE
 
 **learn how to install:**
 
-http://tinyurl.com/pubg90fps
+URL: http://tinyurl.com/pubg90fps
 
 In pubg The Extreme setting corresponds to 60 FPS, while Extreme Plus (or Extreme+) provides 90 FPS.
 Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
@@ -31,9 +31,7 @@ Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, wil
 <a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo"  />
 </a>
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
+
 # DISCLAIMER
 
 **Magisk Module Disclaimer:**
