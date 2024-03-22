@@ -38,6 +38,6 @@ This Magisk module is provided as-is, without any warranties or guarantees. The 
 
 # Donate me
 
-Paypal: [paypal.me/catsmoker](http://paypal.me/boulhada08)
+Paypal: [paypal.me/boulhada08](http://paypal.me/boulhada08)
 
 Thanks for all your supports and hope you have a good day! 👍
