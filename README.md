@@ -29,7 +29,9 @@ https://www.youtube.com/@CATSM0KER?sub_confirmation=1
 
 # DISCLAIMER
 
+**Magisk Module Disclaimer:**
 
+This Magisk module is provided as-is, without any warranties or guarantees. The author is not responsible for any damages or issues that may arise from its use. Users are advised to understand the functionality and risks associated with installing third-party modules. By installing this module, you acknowledge and accept these terms.
 
 # Donate me
 
