@@ -8,7 +8,7 @@ FPS UNLOCKER
 
 MAGISK MODULE
 
-model is set to [23127PN0CC]
+* model is set to [23127PN0CC]
 
 **learn how to install:**
 
