@@ -27,9 +27,8 @@ Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, wil
 
 # view YouTube channel
 
-
-<a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo"  />
+<a href="https://www.youtube.com/channel/UCjNGmM_y9Cf4Y2p-4VZZ5jw">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCjNGmM_y9Cf4Y2p-4VZZ5jw&key=AIzaSyCPlHwh8bE-Z9J-ruyNzOjaqEfA8t6jd8s"/>
 </a>
 
 # DISCLAIMER
