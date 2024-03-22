@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4050&pause=500&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=FPS+UNLOCKER;UNLOCK+MAX+FPS+IN+ANY+GAME)](https://git.io/typing-svg)
+
 # UNLOCK 90FPS (extreme+)
 ![pubg](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
 
