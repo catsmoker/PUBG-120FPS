@@ -9,7 +9,7 @@ In PUBG, the "Extreme" setting corresponds to 60 FPS, while "Extreme Plus" (or "
 ---
 # UNLOCK 120FPS in PUBG BETA
 
-
+![1000036857](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/45f85f58-2970-4d6d-9b0e-60847f81171a)
 
 ---
 **THIS IS A MAGISK MODULE**
