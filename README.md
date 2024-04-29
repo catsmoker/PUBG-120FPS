@@ -12,6 +12,7 @@ In PUBG, the "Extreme" setting corresponds to 60 FPS, while "Extreme Plus" (or "
 ![1000036857](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/45f85f58-2970-4d6d-9b0e-60847f81171a)
 
 ---
+# what is this
 **THIS IS A MAGISK MODULE**
 
 * Model is set to [23127PN0CC]
