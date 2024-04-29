@@ -7,7 +7,11 @@
 In PUBG, the "Extreme" setting corresponds to 60 FPS, while "Extreme Plus" (or "Extreme+") provides 90 FPS. Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.
 
 ---
+# UNLOCK 120FPS in PUBG BETA
 
+
+
+---
 **THIS IS A MAGISK MODULE**
 
 * Model is set to [23127PN0CC]
