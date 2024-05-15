@@ -21,7 +21,7 @@
 
 **Learn how to install:**
 
-[![Installation Tutorial](click here to watch the tutorial video)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
+[click here to watch the tutorial video](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
 
 1. Download the zip from Releases.
 2. Flash in Magisk.
