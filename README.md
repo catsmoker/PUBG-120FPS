@@ -2,14 +2,14 @@
 
 # UNLOCK 120FPS (Ultra Extreme) - MAX FPS
 
-![PUBG](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
+![PUBG](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
 
 “In PUBG, the ‘Extreme’ setting corresponds to 60 FPS, while ‘Extreme Plus’ or ‘Extreme+’ provides 90 FPS. The ‘Ultra Extreme’ setting refers to 120 FPS.”
 
 ---
 # UNLOCK 120FPS in PUBG BETA
 
-![1000036857](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/45f85f58-2970-4d6d-9b0e-60847f81171a)
+![1000036857](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/45f85f58-2970-4d6d-9b0e-60847f81171a)
 
 ---
 # what is this
@@ -21,7 +21,7 @@
 
 **Learn how to install:**
 
-[![Installation Tutorial](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/38c3c645-3147-4e8a-a81b-ecea55a09e02)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
+[![Installation Tutorial](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/38c3c645-3147-4e8a-a81b-ecea55a09e02)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
 
 1. Download the zip from Releases.
 2. Flash in Magisk.
