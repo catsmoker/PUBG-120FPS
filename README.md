@@ -2,6 +2,7 @@
 
 # UNLOCK 120FPS (Ultra Extreme) - MAX FPS
 
+![Screenshot_2024-05-15-15-27-06-738_com tencent ig](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/54e10de2-edec-4ed9-a561-f6a485a63d2f)
 
 
 “In PUBG, the ‘Extreme’ setting corresponds to 60 FPS, while ‘Extreme Plus’ or ‘Extreme+’ provides 90 FPS. The ‘Ultra Extreme’ setting refers to 120 FPS.”
