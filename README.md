@@ -21,7 +21,7 @@
 
 **Learn how to install:**
 
-[![Installation Tutorial](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/38c3c645-3147-4e8a-a81b-ecea55a09e02)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
+[![Installation Tutorial](click here to watch the tutorial video)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
 
 1. Download the zip from Releases.
 2. Flash in Magisk.
