@@ -23,6 +23,9 @@
 2. Flash in Magisk.
 3. Enjoy!
 
+![IMG_20240515_214403](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/47315134-d896-40cf-9327-da1554f9fcaf)
+
+
 ## My YouTube Channel
 
 [![YouTube Channel](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@CATSM0KER?sub_confirmation=1)
