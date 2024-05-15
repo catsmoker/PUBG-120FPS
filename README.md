@@ -4,7 +4,7 @@
 
 ![PUBG](https://github.com/catsmoker/PUBG-90FPS/assets/119059457/a73e6a37-10b2-4571-860d-86705c16573d)
 
-In PUBG, the "Extreme" setting corresponds to 60 FPS, while "Extreme Plus" (or "Extreme+") provides 90 FPS. Devices prone to thermal throttling, unable to maintain a consistent 90 FPS, will be set to around 80 FPS.ultra extreme refers to 120fps.
+“In PUBG, the ‘Extreme’ setting corresponds to 60 FPS, while ‘Extreme Plus’ or ‘Extreme+’ provides 90 FPS. The ‘Ultra Extreme’ setting refers to 120 FPS.”
 
 ---
 # UNLOCK 120FPS in PUBG BETA
