@@ -1,7 +1,0 @@
-ui_print "---------------------------------"
-ui_print "          FPS Unlocker           "
-ui_print "       made by catsmoker         "
-ui_print "---------------------------------"
-ui_print "Successfully changed device model"
-ui_print "          Happy gaming!          "
-ui_print "---------------------------------"
