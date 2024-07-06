@@ -19,7 +19,7 @@
 
 [click here to watch the tutorial video](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
 
-1. Download the zip from Releases.
+1. [Download the latest file from Releases.](https://github.com/catsmoker/PUBG-120FPS/releases)
 2. Flash in Magisk.
 3. Enjoy!
 
