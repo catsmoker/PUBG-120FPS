@@ -6,9 +6,12 @@
 
 umask 022
 
-# echo before loading util_functions
-ui_print() { echo "$1"; }
+# Print message to the console
+ui_print() {
+  echo "$1"
+}
 
+# Function to require a newer version of Magisk
 require_new_magisk() {
   ui_print "*******************************"
   ui_print " Please install Magisk v20.4+! "
@@ -23,11 +26,18 @@ require_new_magisk() {
 OUTFD=$2
 ZIPFILE=$3
 
+# Ensure /data is mounted
 mount /data 2>/dev/null
 
-[ -f /data/adb/magisk/util_functions.sh ] || require_new_magisk
+# Check for the presence of util_functions.sh and Magisk version
+if [ ! -f /data/adb/magisk/util_functions.sh ]; then
+  require_new_magisk
+fi
 . /data/adb/magisk/util_functions.sh
-[ $MAGISK_VER_CODE -lt 20400 ] && require_new_magisk
+if [ $MAGISK_VER_CODE -lt 20400 ]; then
+  require_new_magisk
+fi
 
+# Execute module installation
 install_module
 exit 0
