@@ -43,6 +43,6 @@ This Magisk module is provided as-is, without any warranties or guarantees. The 
 
 Support the developer:
 
-Paypal: [paypal.me/boulhada08](http://paypal.me/boulhada08)
+[donation](https://catsmoker.github.io/donation.html)
 
 Thanks for all your support! Have a good day! 👍
