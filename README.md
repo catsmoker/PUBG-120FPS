@@ -23,7 +23,7 @@
 
 - Ensure that your Android device is rooted.
 1. install [magisk_ canary](https://github.com/topjohnwu/Magisk/releases/tag/canary-27008) if it’s not already installed.
-2 (Optional) Install the [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) module to hide root.
+2. (Optional) Install the [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) module to hide root.
 3. [Download the latest file from Releases.](https://github.com/catsmoker/PUBG-120FPS/releases)
 4. Flash in Magisk app.
 5. reboot your device.
