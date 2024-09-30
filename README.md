@@ -11,7 +11,7 @@
 # what is this
 **THIS IS A MAGISK MODULE**
 
-* Model is set to [23127PN0CC]
+* Model is set to [PJD110]
 
 ## Instructions
 
