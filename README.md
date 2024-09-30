@@ -19,9 +19,15 @@
 
 [click here to watch the tutorial video](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
 
-1. [Download the latest file from Releases.](https://github.com/catsmoker/PUBG-120FPS/releases)
-2. Flash in Magisk.
-3. Enjoy!
+### Installation
+
+- Ensure that your Android device is rooted.
+1. install [magisk_ canary](https://github.com/topjohnwu/Magisk/releases/tag/canary-27008) if it’s not already installed.
+2 (Optional) Install the [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) module to hide root.
+3. [Download the latest file from Releases.](https://github.com/catsmoker/PUBG-120FPS/releases)
+4. Flash in Magisk app.
+5. reboot your device.
+6. Enjoy!
 
 ![IMG_20240515_214403](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/47315134-d896-40cf-9327-da1554f9fcaf)
 
