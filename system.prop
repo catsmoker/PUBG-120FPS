@@ -1,12 +1,6 @@
+persist.sys.pixelprops.games=false
 ro.product.model=PJD110
 ro.product.odm.model=PJD110
 ro.product.system.model=PJD110
-ro.product.system_ext.model=PJD110
 ro.product.vendor.model=PJD110
-ro.product.vendor.manufacturer=OnePlus
-ro.product.brand=OnePlus
-ro.product.manufacturer=OnePlus
-ro.product.system.brand=OnePlus
-ro.product.system.manufacturer=OnePlus
-ro.product.system.model=PJD110
-ro.build.user=OnePlus
+ro.product.system_ext.model=PJD110
