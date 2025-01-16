@@ -49,6 +49,6 @@ This Magisk module is provided as-is, without any warranties or guarantees. The 
 
 Support the developer:
 
-[donation](https://catsmoker.github.io/donation.html)
+[Donation](https://catsmoker.github.io/web/donation.html)
 
 Thanks for all your support! Have a good day! 👍
