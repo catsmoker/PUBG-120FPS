@@ -11,7 +11,7 @@
 # what is this
 **THIS IS A MAGISK MODULE**
 
-* Model is set to [PJD110]
+* Model is set to [24030PN60G]
 
 ## Instructions
 
