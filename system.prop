@@ -1,6 +1,6 @@
 persist.sys.pixelprops.games=false
-ro.product.model=PJD110
-ro.product.odm.model=PJD110
-ro.product.system.model=PJD110
-ro.product.vendor.model=PJD110
-ro.product.system_ext.model=PJD110
+ro.product.model=24030PN60G
+ro.product.odm.model=24030PN60G
+ro.product.system.model=24030PN60G
+ro.product.vendor.model=24030PN60G
+ro.product.system_ext.model=24030PN60G
