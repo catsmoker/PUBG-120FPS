@@ -1,0 +1,13 @@
+{
+  "id": "STRPxUNLOCKER",
+  "name": "Universal FPS Unlocker",
+  "versionCode": 2,
+  "version": "2.0",
+  "author": "CATSMOKER",
+  "description": "Unlocks FPS limits in Android games",
+  "zipUrl": "",
+  "changelog": "",
+  "minMagisk": "20.4",
+  "minApi": 21,
+  "maxApi": 30
+}
