@@ -1,57 +1,61 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4050&pause=500&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=FPS+UNLOCKER;UNLOCK+MAX+FPS+IN+ANY+GAME)](https://git.io/typing-svg)
+# 🚀 FPS UNLOCKER – MAX FPS IN ANY GAME  
 
-# UNLOCK 120FPS (Ultra Extreme) - MAX FPS
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4050&pause=500&color=F70000&center=true&vCenter=true&width=1000&height=70&lines=UNLOCK+120FPS+%28ULTRA+EXTREME%29;MAXIMUM+PERFORMANCE+IN+PUBG)](https://git.io/typing-svg)  
 
-![Screenshot_2024-05-15-15-27-06-738_com tencent ig](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/54e10de2-edec-4ed9-a561-f6a485a63d2f)
+![Screenshot](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/54e10de2-edec-4ed9-a561-f6a485a63d2f)  
 
-“In PUBG, the ‘Extreme’ setting corresponds to 60 FPS, while ‘Extreme Plus’ or ‘Extreme+’ provides 90 FPS. The ‘Ultra Extreme’ setting refers to 120 FPS.”
+> **Note:**  
+> In PUBG Mobile:  
+> - **Extreme** = 60 FPS  
+> - **Extreme+** = 90 FPS  
+> - **Ultra Extreme** = **120 FPS** (Unlocked with this module)  
 
-# Updated method
-The other best way is to use this [app](https://github.com/catsmoker/com.catsmoker.app)
-
-# Using this module
 ---
-# what is this
-**THIS IS A MAGISK MODULE**
 
-* Model is set to [CPH2653]
+## 🔥 Updated Method (Recommended)  
+The easiest way to unlock FPS is by using **[this dedicated app](https://github.com/catsmoker/com.catsmoker.app)**.  
 
-## Instructions
+---
 
-**Learn how to install:**
+## 🔧 Magisk Module Installation  
 
-[click here to watch the tutorial video](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
+### 📌 Requirements  
+- **Rooted** Android device  
+- **Magisk Canary** installed ([Download Here](https://github.com/topjohnwu/Magisk/releases/tag/canary-27008))  
+- (Optional) **Shamiko** for root hiding ([Download Here](https://github.com/LSPosed/LSPosed.github.io/releases))  
 
-### Installation
+### ⚙ Step-by-Step Guide  
+1. **[Download the latest module](https://github.com/catsmoker/PUBG-120FPS/releases)**  
+2. Open **Magisk** → **Modules** → **Install from Storage**  
+3. Select the downloaded `.zip` file  
+4. **Reboot** your device  
+5. **Enjoy 120 FPS in PUBG!** 🎮  
 
-- Ensure that your Android device is rooted.
-1. install [magisk_ canary](https://github.com/topjohnwu/Magisk/releases/tag/canary-27008) if it’s not already installed.
-2. (Optional) Install the [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) module to hide root.
-3. [Download the latest file from Releases.](https://github.com/catsmoker/PUBG-120FPS/releases)
-4. Flash in Magisk app.
-5. reboot your device.
-6. Enjoy!
+📹 **[Watch the Tutorial Video](https://www.youtube.com/watch?v=pXZIm_qD2Fg)**  
 
-![IMG_20240515_214403](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/47315134-d896-40cf-9327-da1554f9fcaf)
+![Magisk Installation](https://github.com/catsmoker/PUBG-120FPS/assets/119059457/47315134-d896-40cf-9327-da1554f9fcaf)  
 
+---
 
-## My YouTube Channel
+## 📢 Disclaimer  
+❗ **Use at your own risk!**  
+This module is provided **as-is**. The developer is **not responsible** for any issues, bans, or damages caused by its usage.  
 
-[![YouTube Channel](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@CATSM0KER?sub_confirmation=1)
+---
 
-[![YouTube Video Views](https://img.shields.io/youtube/views/pXZIm_qD2Fg?style=for-the-badge&color=blue&labelColor=0b689d)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
-[![YouTube Video Comments](https://img.shields.io/youtube/comments/pXZIm_qD2Fg?style=for-the-badge&color=blue&labelColor=0b689d)](https://www.youtube.com/watch?v=pXZIm_qD2Fg)
+## 💖 Support the Developer  
+If this project helped you, consider supporting my work:  
+🔗 **[Donate Here](https://catsmoker.github.io/web/donation.html)**  
 
-## Disclaimer
+---
 
-**Magisk Module Disclaimer:**
+## 📺 My YouTube Channel  
+[![YouTube](https://img.shields.io/badge/Subscribe-@CATSM0KER-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CATSM0KER?sub_confirmation=1)  
 
-This Magisk module is provided as-is, without any warranties or guarantees. The author is not responsible for any damages or issues that may arise from its use. Users are advised to understand the functionality and risks associated with installing third-party modules. By installing this module, you acknowledge and accept these terms.
+📊 **Video Stats:**  
+[![Views](https://img.shields.io/youtube/views/pXZIm_qD2Fg?style=flat&color=blue&label=Views)](https://youtu.be/pXZIm_qD2Fg)  
+[![Comments](https://img.shields.io/youtube/comments/pXZIm_qD2Fg?style=flat&color=green&label=Comments)](https://youtu.be/pXZIm_qD2Fg)  
 
-## Donate
+---
 
-Support the developer:
-
-[Donation](https://catsmoker.github.io/web/donation.html)
-
-Thanks for all your support! Have a good day! 👍
+**Thanks for using this module! Have a great gaming experience!** 🚀🔥  
