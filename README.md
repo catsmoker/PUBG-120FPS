@@ -50,7 +50,7 @@ If this project helped you, consider supporting my work:
 ---
 
 ## 📺 My YouTube Channel  
-[![YouTube](https://img.shields.io/badge/Subscribe-@CATSM0KER-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CATSM0KER?sub_confirmation=1)  
+[![YouTube](https://img.shields.io/badge/Subscribe-@CATSM0KER-red?style=for-the-badge&logo=youtube)](https://m.youtube.com/@CATSMOKER)  
 
 📊 **Video Stats:**  
 [![Views](https://img.shields.io/youtube/views/pXZIm_qD2Fg?style=flat&color=blue&label=Views)](https://youtu.be/pXZIm_qD2Fg)  
